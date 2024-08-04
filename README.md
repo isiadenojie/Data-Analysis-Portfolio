@@ -21,7 +21,16 @@ Portfolio of Data Analysis Project
   - Sage
   - Oracle ERP
   - Microsoft Dynamics 365 Finance and Operations
+## Certifications
 
+- **Google Data Analytics Professional Certificate**
+  - Acquired skills in data cleaning, analysis, and visualization using tools like Excel, SQL, R, and Tableau.
+  - Completed a capstone project demonstrating practical application of data analysis skills.
+
+- **Quantum Analytics Data Analyst Certificate**
+  - Gained proficiency in statistical analysis, data modeling, and data storytelling.
+  - Hands-on experience with Python, Power BI, and data visualization techniques.
+    
 ## Technical Skills
 - **Data Analysis & Visualization:**
   - Excel
